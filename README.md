@@ -1,6 +1,6 @@
 # Shoppeal Tech Projects
 
-This repository contains three projects developed by Shoppeal Tech: a Todo List, a Real-Time Digital Clock, and a Shoppeal Tech Landing Page.
+This repository contains three projects assigned by Shoppeal Tech: a Todo List, a Real-Time Digital Clock, and a Shoppeal Tech Landing Page.
 
 ## Projects
 
